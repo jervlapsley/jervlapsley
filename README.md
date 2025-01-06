@@ -9,5 +9,5 @@
 
 ### I do ramdom things here
 
-<img src="https://wwww.thetechbrew.co" alt="Recent Article 0"> 
+<a target="_blank" href="[https://github-readme-medium-recent-article.vercel.app/medium/@jervlapsley/0](https://wwww.thetechbrew.co)"><img src="https://wwww.thetechbrew.co" alt="Personal Blog"> 
 
