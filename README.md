@@ -6,6 +6,9 @@ i am learning how the internet works — currently pursuing bsc in network engin
 - networking
 - tinkering [robotics]
 
+## Certs
+- ![CCNA]()
+
 ## Hobbies
 - things that go vroom vroom [f1, karting]
 - gaming [vroom voom, pew pew, LoL]
