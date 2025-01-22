@@ -7,7 +7,8 @@ i am learning how the internet works — currently pursuing bsc in network engin
 - tinkering [robotics]
 
 ## Certs
-- ![CCNA]()
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ## Hobbies
 - things that go vroom vroom [f1, karting]
