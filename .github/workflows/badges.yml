@@ -1,6 +1,9 @@
 name: Update badges
 
-on: workflow_dispatch
+on: 
+  schedule:
+    # Runs at 3pm UTC
+    - cron: "0 13 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
