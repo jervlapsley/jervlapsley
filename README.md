@@ -1,12 +1,16 @@
 # 👋🏾 I'm Jerv!
 
-I am learning how the internet works — currently pursuing BSc in Network Engineering & Security
+i am learning how the internet works — currently pursuing bsc in network engineering & security
 
 ## Interests
+- networking
+- robotics [tinkering]
 
 ## Hobbies
-🏎️ things that go vroom vroom [F1, Karting]
-
+- things that go vroom vroom [f1, karting]
+- gaming [vroom voom, pew pew, LoL]
+- cooking [i'll take you to the caribbean and italy]
+- gym [pr: bench-225, deadlift-375, squat-205ish] 
 
 <!--- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jervlapsley/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jervlapsley/0" alt="Recent Article 0"> --->
 
