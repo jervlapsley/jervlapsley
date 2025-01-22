@@ -1,5 +1,12 @@
 # 👋🏾 I'm Jerv!
 
+I am learning how the internet works — currently pursuing BSc in Network Engineering & Security
+
+## Interests
+
+## Hobbies
+
+
 ![Jervik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jervlapsley&show_icons=true&theme=transparent&)
 
 
