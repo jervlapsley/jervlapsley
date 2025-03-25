@@ -19,7 +19,7 @@ i am learning how the internet works — currently pursuing bsc in network engin
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/ed0c51d9-2e49-41f2-a003-8613c5735f6a "AWS Certified Cloud Practitioner")
 [![CompTIA Security+ ce Certification](https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](http://www.credly.com/badges/fcb37b88-7ec4-4d38-ad4a-18ebf649d7e6 "CompTIA Security+ ce Certification")
 [![CompTIA Network+ ce Certification](https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob)](http://www.credly.com/badges/8130c616-91c5-4795-bc39-3682ddd079f2 "CompTIA Network+ ce Certification")
-[![CompTIA A+ ce Certification](https://images.credly.com/size/110x110/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png)](http://www.credly.com/badges/abdc80b9-1c51-43ca-94c8-913d124f3dae "CompTIA A+ ce Certification")
+[![CompTIA A+ ce Certification](https://images.credly.com/size/110x110/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob)](http://www.credly.com/badges/abdc80b9-1c51-43ca-94c8-913d124f3dae "CompTIA A+ ce Certification")
 <!--END_SECTION:badges-->
 
 <!--- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jervlapsley/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jervlapsley/0" alt="Recent Article 0"> --->
