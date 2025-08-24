@@ -1,6 +1,6 @@
 # 👋🏾 I'm Jerv!
 
-i am learning how the internet works — currently pursuing bsc in network engineering & security
+i am learning how the internet works — currently pursuing bsc in network engineering & security.
 
 ## Interests
 - networking
