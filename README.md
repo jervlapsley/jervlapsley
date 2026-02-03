@@ -20,7 +20,7 @@ i am learning how the internet works — currently pursuing bsc in network engin
 <a href="https://www.credly.com/badges/8130c616-91c5-4795-bc39-3682ddd079f2" title="CompTIA Network+ ce Certification"><img src="https://images.credly.com/size/80x80/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="CompTIA Network+ ce Certification" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/abdc80b9-1c51-43ca-94c8-913d124f3dae" title="CompTIA A+ ce Certification"><img src="https://images.credly.com/size/80x80/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" alt="CompTIA A+ ce Certification" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/6de857d4-a269-4fc4-a7cb-96009e510332" title="CompTIA Cloud+ ce Certification"><img src="https://images.credly.com/size/80x80/images/b2e3c623-cc4a-4f0c-8a3b-aa6231e138fe/blob" alt="CompTIA Cloud+ ce Certification" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/97be66ae-0cf1-4ad8-94a5-793eb5e6d619" title="Cisco Certified Cybersecurity Associate"><img src="https://images.credly.com/size/80x80/images/43ee30bc-78c5-4704-942c-337c6ee7abf9/blob" alt="Cisco Certified Cybersecurity Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/97be66ae-0cf1-4ad8-94a5-793eb5e6d619" title="CCNA Cybersecurity"><img src="https://images.credly.com/size/80x80/images/99c33c3f-ab7e-46dc-9490-01837434c649/blob" alt="CCNA Cybersecurity" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/e32b1ba9-10e9-45f6-9fc0-84b38572d2bd" title="GitHub Foundations"><img src="https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
