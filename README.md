@@ -9,7 +9,7 @@ i am learning how the internet works — currently pursuing bsc in network engin
 ## Hobbies
 - things that go vroom vroom [f1, karting]
 - gaming [vroom voom, pew pew, LoL]
-- cooking [i'll take you to the caribbean and italy]
+- cooking [any delicous cuisine]
 - gym [pr: bench-225, deadlift-375, squat-205ish, cardio-whatisthat?] 
 
 ## Certs
